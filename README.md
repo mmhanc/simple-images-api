@@ -1,4 +1,4 @@
-# Simple REST API
+# Simple images REST API
 
 A simple REST API for uploading and serving images.
 
