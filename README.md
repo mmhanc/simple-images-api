@@ -11,27 +11,27 @@ Before starting, install [Compose](https://docs.docker.com/compose/install/).
 
 ### Installation
 
-Clone the project repository.
+1. Clone the project repository.
 
 ```
 $ git clone https://github.com/mmhanc/simple-images-api.git
 ```
 
-Go inside the top level directory of the project.
+2. Go inside the top level directory of the project.
 
-Create an `.env` file. There is an `.env.example` file available in the project directory.
+3. Create an `.env` file. There is an `.env.example` file available in the project directory.
 
-Run the docker compose build command.
+4. Run the docker compose build command.
 ```
 $ docker compose build
 ```
 
-Run the migrate command with docker compose.
+5. Run the migrate command with docker compose.
 ```
 $ sudo docker compose run web python manage.py migrate 
 ```
 
-Run the docker compose up command.
+6. Run the docker compose up command.
 ```
 $ docker compose up
 ```
