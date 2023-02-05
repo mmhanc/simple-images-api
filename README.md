@@ -6,7 +6,7 @@ A simple REST API for uploading and serving images.
 
 ### Prerequisites
 
-Before starting, install [Compose](https://docs.docker.com/compose/install/).
+Before starting, install docker and [Compose](https://docs.docker.com/compose/install/).
 
 
 ### Installation
