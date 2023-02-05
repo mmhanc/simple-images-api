@@ -21,6 +21,11 @@ Go inside the top level directory of the project.
 
 Create an `.env` file. There is an `.env.example` file available in the project directory.
 
+Run the docker compose build command.
+```
+$ docker compose build
+```
+
 Run the migrate command with docker compose.
 ```
 $ sudo docker compose run web python manage.py migrate 
