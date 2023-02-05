@@ -14,7 +14,7 @@ Before starting, install [Compose](https://docs.docker.com/compose/install/).
 Clone the project repository.
 
 ```
-$ git clone 
+$ git clone https://github.com/mmhanc/simple-images-api.git
 ```
 
 Go inside the top level directory of the project.
