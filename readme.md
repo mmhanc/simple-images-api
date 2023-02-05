@@ -1,4 +1,4 @@
-# Project Title
+# Simple REST API
 
 A simple REST API for uploading and serving images.
 
